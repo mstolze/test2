@@ -1,1 +1,1 @@
-aSecondFile  edited from 2nd FOlder
+aSecondFile  manual merged
